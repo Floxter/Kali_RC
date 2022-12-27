@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
-    "truffle": "^5.1.12"
+    "truffle": "^5.7.1"
   }
 }
